@@ -1,0 +1,23 @@
+[
+    "index.md",
+    "how-we-used-to-do-stuff.md",
+    "how-we-used-to-build-stuff-2.md",
+    "whats-wrong-with-that.md",
+    "services.md",
+    "service-container.md",
+    "defining-services.md",
+    "constructor-injection.md",
+    "method-injection.md",
+    "factory.md",
+    "factory-2.md",
+    "access-container.md",
+    "specific-interfaces.md",
+    "specific-interfaces-block-1.md",
+    "specific-interfaces-block-2.md",
+    "specific-interfaces-controller-1.md",
+    "specific-interfaces-controller-2.md",
+    "so-much-yaml-code.md",
+    "object-calisthenics.md",
+    "resources.md",
+    "challenge.md"
+]
